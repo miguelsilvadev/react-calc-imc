@@ -10,3 +10,6 @@ Projeto dezenvolvido durante o curso fullstack da B7Web.
 
 ### Para rodar
 - `npm start`
+
+Deployed link:
+https://miguelsilvadev.github.io/react-calc-imc/
