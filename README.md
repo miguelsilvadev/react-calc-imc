@@ -9,4 +9,4 @@ Projeto dezenvolvido durante o curso fullstack da B7Web.
 - `npm install`
 
 ### Para rodar
-- `npm start`"# react-calc-imc" 
+- `npm start`
